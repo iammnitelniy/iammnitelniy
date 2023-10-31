@@ -19,9 +19,26 @@
 - 🤝 I'm open to collaborating on interesting projects
 </div>
 
-<!-- projects -->
-
 ### 💼 My projects:
+
+<details>
+<summary><b> React/Redux/TS/JS </b></summary>
+  <ul>
+    <li>
+        <a href="https://iammnitelniy.github.io/portfolio_achievements/">My portfolio</a>
+     </li>
+      <li>
+        <a href="https://github.com/iammnitelniy/manager_task">Expanded Notes List</a>
+     </li>
+      <li>
+        <a href="https://iammnitelniy.github.io/books/">Books Searcher</a>
+     </li>
+    
+  </ul>
+</details>
+
+<!-- skills -->
+---
 
 
 <!-- skills -->
@@ -71,9 +88,5 @@
 
 ---
 
-<!-- codewars -->
 
-### 📈 Codewars:
-
-[![codewars](https://www.https://www.codewars.com/users/Ilia%20Barabanov)](https://www.https://www.codewars.com/users/Ilia%20Barabanov)
 
