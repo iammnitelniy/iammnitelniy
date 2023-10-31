@@ -1,7 +1,7 @@
 <!-- Intro -->
 
 <h1 align="center">Hi there 👋, My name is Ilia Barabanov</h1>
-<h2 align="center">Front-End Developer from Belarus
+<h2 align="center">Front-End Developer 
 <br>
 
 <!-- about me -->
@@ -75,5 +75,5 @@
 
 ### 📈 Codewars:
 
-[![codewars](https://www.codewars.com/users/vitaly_bedik/badges/large)](https://www.https://www.codewars.com/users/Ilia%20Barabanov)
+[![codewars](https://www.https://www.codewars.com/users/Ilia%20Barabanov)](https://www.https://www.codewars.com/users/Ilia%20Barabanov)
 
