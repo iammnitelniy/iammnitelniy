@@ -14,7 +14,7 @@
 <div align="left">
 
 - 🌍 I'm based in Moscow, N.Novgorod
-- 🖥️ Most of my projects are available on [my portfolio website.](https://iammnitelniy.github.io/portfolio_achievements)
+- 🖥️ Most of my projects are available on [my portfolio website.](https://iammnitelniy.github.io/portfolio-frontend/)
 - ✉️ You can contact me at [ilianardan@gmail.com](mailto:ilianardan@gmail.com) 
 - 🤝 I'm open to collaborating on interesting projects
 </div>
@@ -25,13 +25,13 @@
 <summary><b> React/Redux/TS/JS </b></summary>
   <ul>
     <li>
-        <a href="https://iammnitelniy.github.io/portfolio_achievements/">My portfolio</a>
+        <a href="https://github.com/iammnitelniy/portfolio-frontend">My portfolio</a>
      </li>
       <li>
-        <a href="https://github.com/iammnitelniy/manager_task">Expanded Notes List</a>
+        <a href="https://github.com/iammnitelniy/manager_task_react">Expanded Notes List</a>
      </li>
       <li>
-        <a href="https://iammnitelniy.github.io/books/">Books Searcher</a>
+        <a href="https://iammnitelniy.github.io/books-typescript/">Books Searcher</a>
      </li>
     
   </ul>
