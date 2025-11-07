@@ -1,7 +1,7 @@
 <!-- Intro -->
 
 <h1 align="center">Hi there 👋, My name is Ilia Barabanov</h1>
-<h2 align="center">Front-End Developer 
+
 <br>
 
 <!-- about me -->
@@ -11,13 +11,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iliabarabanov)
 
-<div align="left">
 
-- 🌍 I'm based in Moscow, N.Novgorod
-- 🖥️ Most of my projects are available on [my portfolio website.](https://iammnitelniy.github.io/portfolio-frontend/)
-- ✉️ You can contact me at [ilianardan@gmail.com](mailto:ilianardan@gmail.com) 
-- 🤝 I'm open to collaborating on interesting projects
-</div>
 
 ### 💼 My projects:
 
